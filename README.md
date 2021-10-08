@@ -32,7 +32,7 @@ Download the latest releases for YGO Omega here.
 | **Graphics** | Intel HD Graphics 3000 | Intel HD Graphics 4000 |
 | **DirectX** | Version 11 | Version 11 |
 | **Network** | Broadband Internet Connection | Broadband Internet Connection |
-| **Storage** | 5GB Available Space | 16GB Available Space |
+| **Storage** | 4GB Available Space | 6GB Available Space |
 | **Sound Card** | On Board | On Board |
 | **Resolution** | 1280 x 720 | 1920 x 1080 |
 
