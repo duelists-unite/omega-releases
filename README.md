@@ -24,13 +24,24 @@ Download the latest releases for YGO Omega here.
 
 ## System Requirements
 
-|  | MINIMUM | RECOMMEND |
+| <img src="https://ucarecdn.com/8c900607-ec45-4b78-9cbf-2b902ecdfa56/-/format/auto/-/quality/lighter/-/max_icc_size/10/-/resize/180x/" width="50" height="50"> | MINIMUM | RECOMMEND |
 | --- | --- |--- |
 | **OS** | Windows 10 Home(32bit) latest revision | Windows 10 Home(64bit) latest revision |
-| **Processor** | Duel Core CPU |  Quad Core CPU |
+| **Processor** | Dual Core CPU |  Quad Core CPU |
 | **Memory** | 2GB RAM | 4GB RAM |
 | **Graphics** | Intel HD Graphics 3000 | Intel HD Graphics 4000 |
 | **DirectX** | Version 11 | Version 11 |
+| **Network** | Broadband Internet Connection | Broadband Internet Connection |
+| **Storage** | 4GB Available Space | 6GB Available Space |
+| **Sound Card** | On Board | On Board |
+| **Resolution** | 1280 x 720 | 1920 x 1080 |
+
+| <img src="https://ucarecdn.com/dad8e890-2305-4535-ab04-98564bc614d9/-/format/auto/-/quality/lighter/-/max_icc_size/10/-/resize/180x/" width="50" height="50"> | MINIMUM | RECOMMEND |
+| --- | --- |--- |
+| **OS** | Linux latest revision | Linux latest revision |
+| **Processor** | Dual Core CPU |  Quad Core CPU |
+| **Memory** | 4GB RAM | 8GB RAM |
+| **Graphics** | Intel HD Graphics 3000 | Intel HD Graphics 4000 |
 | **Network** | Broadband Internet Connection | Broadband Internet Connection |
 | **Storage** | 4GB Available Space | 6GB Available Space |
 | **Sound Card** | On Board | On Board |
