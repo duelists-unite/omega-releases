@@ -38,7 +38,7 @@ Download the latest releases for YGO Omega here.
 
 | <img src="https://ucarecdn.com/dad8e890-2305-4535-ab04-98564bc614d9/-/format/auto/-/quality/lighter/-/max_icc_size/10/-/resize/180x/" width="50" height="50"> | MINIMUM | RECOMMEND |
 | --- | --- |--- |
-| **OS** | Linux latest revision | Linux latest revision |
+| **OS** | Linux latest revision* | Linux latest revision* |
 | **Processor** | Dual Core CPU |  Quad Core CPU |
 | **Memory** | 4GB RAM | 8GB RAM |
 | **Graphics** | Intel HD Graphics 3000 | Intel HD Graphics 4000 |
@@ -46,6 +46,8 @@ Download the latest releases for YGO Omega here.
 | **Storage** | 4GB Available Space | 6GB Available Space |
 | **Sound Card** | On Board | On Board |
 | **Resolution** | 1280 x 720 | 1920 x 1080 |
+
+*Dependencies [Read Here](https://forum.duelistsunite.org/t/installation-and-troubleshooting-guide/3802#requirements-for-all-distributions-10)
 
 ## Install Guide
 For a detailed guide on how to install and play:
