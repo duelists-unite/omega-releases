@@ -24,8 +24,17 @@ Download the latest releases for YGO Omega here.
 
 ## System Requirements
 
-![SystemRequirement](https://user-images.githubusercontent.com/12994748/125078772-dfd32000-e090-11eb-9e62-f60556c3dde1.png)
-
+|  | MINIMUM | RECOMMEND |
+| --- | --- |--- |
+| **OS** | Windows 10 Home(32bit) latest revision | Windows 10 Home(64bit) latest revision |
+| **Processor** | Duel Core CPU |  Quad Core CPU |
+| **Memory** | 2GB RAM | 4GB RAM |
+| **Graphics** | Intel HD Graphics 3000 | Intel HD Graphics 4000 |
+| **DirectX** | Version 11 | Version 11 |
+| **Network** | Broadband Internet Connection | Broadband Internet Connection |
+| **Storage** | 5GB Available Space | 16GB Available Space |
+| **Sound Card** | On Board | On Board |
+| **Resolution** | 1280 x 720 | 1920 x 1080 |
 
 ## Install Guide
 For a detailed guide on how to install and play:
