@@ -52,9 +52,9 @@ Download the latest releases for YGO Omega here.
 ## Install Guide
 For a detailed guide on how to install and play:
 
-https://forum.duelistsunite.org/t/ygo-omega-guide/519
+https://forum.duelistsunite.org/omegaguide
 
 ## Installation and Troubleshooting Guide
 For a detailed guide on troubleshooting:
 
-https://forum.duelistsunite.org/t/installation-and-troubleshooting-guide/3802
+https://forum.duelistsunite.org/troubleshoot
