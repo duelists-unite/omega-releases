@@ -16,6 +16,8 @@ Download the latest releases for YGO Omega here.
 
 <a href="https://github.com/duelists-unite/omega-releases/releases/download/Latest/Omega_Installer-Windows.exe"><img src="https://ucarecdn.com/8c900607-ec45-4b78-9cbf-2b902ecdfa56/-/format/auto/-/quality/lighter/-/max_icc_size/10/-/resize/180x/" width="50" height="50"></a>
 <a href="https://github.com/duelists-unite/omega-releases/releases/download/Latest/linux-x64.zip"><img src="https://ucarecdn.com/dad8e890-2305-4535-ab04-98564bc614d9/-/format/auto/-/quality/lighter/-/max_icc_size/10/-/resize/180x/" width="50" height="50"></a>
+<a href="https://github.com/duelists-unite/omega-releases/releases/download/Latest/android.apk"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/android-512.png" width="50" height="50"></a>
+
 
 ## Download Omega Launcher
 
@@ -48,6 +50,12 @@ Download the latest releases for YGO Omega here.
 | **Resolution** | 1280 x 720 | 1920 x 1080 |
 
 *Dependencies [Read Here](https://forum.duelistsunite.org/t/installation-and-troubleshooting-guide/3802#requirements-for-all-distributions-10)
+
+| <a href="https://github.com/duelists-unite/omega-releases/releases/download/Latest/android.apk"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/android-512.png" width="50" height="50"></a> | MINIMUM | RECOMMEND |
+| --- | --- |--- |
+| **OS** | Android 5.1 | Android 10 |
+| **Memory** | 3GB RAM | 4GB RAM |
+| **Storage** | 4GB Available Space | 6GB Available Space |
 
 ## Install Guide
 For a detailed guide on how to install and play:
