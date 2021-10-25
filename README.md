@@ -53,7 +53,7 @@ Download the latest releases for YGO Omega here.
 
 | <a href="https://github.com/duelists-unite/omega-releases/releases/download/Latest/android.apk"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/android-512.png" width="50" height="50"></a> | MINIMUM | RECOMMEND |
 | --- | --- |--- |
-| **OS** | Android 5.1 | Android 10 |
+| **OS** | Android 5.1 | Android 9 |
 | **Memory** | 3GB RAM | 4GB RAM |
 | **Storage** | 4GB Available Space | 6GB Available Space |
 
