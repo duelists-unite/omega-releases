@@ -51,9 +51,10 @@ Download the latest releases for YGO Omega here.
 
 *Dependencies [Read Here](https://forum.duelistsunite.org/t/installation-and-troubleshooting-guide/3802#requirements-for-all-distributions-10)
 
-| <a href="https://github.com/duelists-unite/omega-releases/releases/download/Latest/android.apk"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/android-512.png" width="50" height="50"></a> | MINIMUM | RECOMMEND |
+| <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/android-512.png" width="50" height="50"> | MINIMUM | RECOMMEND |
 | --- | --- |--- |
 | **OS** | Android 5.1 | Android 9 |
+| **CPU** |  | Snapdragon 845 |
 | **Memory** | 3GB RAM | 4GB RAM |
 | **Storage** | 4GB Available Space | 6GB Available Space |
 
