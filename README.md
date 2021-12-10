@@ -14,7 +14,7 @@
 ## Download YGO Omega
 Download the latest releases for YGO Omega here.
 
-<a href="https://github.com/duelists-unite/omega-releases/releases/download/Latest/Omega.Installer.for.Windows.exe"><img src="https://ucarecdn.com/8c900607-ec45-4b78-9cbf-2b902ecdfa56/-/format/auto/-/quality/lighter/-/max_icc_size/10/-/resize/180x/" width="50" height="50"></a>
+<a href="https://github.com/duelists-unite/omega-releases/releases/download/Latest/Omega_Installer-Windows.msi"><img src="https://ucarecdn.com/8c900607-ec45-4b78-9cbf-2b902ecdfa56/-/format/auto/-/quality/lighter/-/max_icc_size/10/-/resize/180x/" width="50" height="50"></a>
 <a href="https://github.com/duelists-unite/omega-releases/releases/download/Latest/linux-x64.zip"><img src="https://ucarecdn.com/dad8e890-2305-4535-ab04-98564bc614d9/-/format/auto/-/quality/lighter/-/max_icc_size/10/-/resize/180x/" width="50" height="50"></a>
 <a href="https://github.com/duelists-unite/omega-releases/releases/download/Latest/android.apk"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/android-512.png" width="50" height="50"></a>
 
