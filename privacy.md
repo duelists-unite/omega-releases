@@ -98,6 +98,11 @@ We encourage players to practice self-moderation. Most games do not offer the ab
 
 We offer a number of settings that allow you to tailor your experience within YGO Omega. 
 
+Children’s Privacy[](#children)
+===================================================
+
+These Services apply to all ages including those under the age of 13. Our game is a Yu-Gi-Oh Trading Card game simulator. The game is played worldwide for all ages. If you are a parent or guardian and you are concered that your child has provided us with personal information, please contact us so that we will be able to do the necessary actions.
+
 International data transfers[](#international-data-transfers)
 ===============================================================
 
