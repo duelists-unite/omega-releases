@@ -1,63 +1,136 @@
-**Privacy Policy**
+# **PRIVACY NOTICE**
 
-Duelists Unite built the YGO Omega app as a Free app. This SERVICE is provided by Duelists Unite at no cost and is intended for use as is.
+ 
+**Effective: May 10, 2022**
+**Last updated: May 10, 2022**
 
-This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+1.  [Welcome!](#welcome)
+2.  [The information we collect](#the-information-we-collect)
+    *   [Information you provide to us](#information-you-provide-to-us)
+    *   [Information we collect automatically](#information-we-collect-automatically)
+4.  [How we use your information](#how-we-use-your-information)
+5.  [How we share your information](#how-we-share-your-information)
+6.  [Data retention](#data-retention)
+7.  [How to control your privacy](#how-to-control-your-privacy)
+9.  [International data transfers](#international-data-transfers)
+8.  [Information for EEA, United Kingdom, and Brazil Users](#information-for-eea-united-kingdom-and-brazil-users)
+9.  [Information for California Users](#information-for-california-users)
+10.  [Changes to this Privacy Policy](#changes-to-this-privacy-policy)
+11.  [Contact us](#contact-us)
 
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+Welcome![](#welcome)
+======================
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at YGO Omega unless otherwise defined in this Privacy Policy.
+This privacy notice for Duelists Unite ("**Company**," "**we**," "**us**," or "**our**"), describes how and why we might collect, store, use, and/or share ("**process**") your information when you use our services ("**Services**"), such as when you:
 
-**Information Collection and Use**
+*   Download and use our application (YGO Omega), or any other application of ours that links to this privacy notice
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to Discord username, Discord avatar. The information that we request will be retained by us and used as described in this privacy policy.
+*   Engage with us in other related ways, including any sales, marketing, or events
 
-The app does use third-party services that may collect information used to identify you.
+**Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at duelistsunite0@gmail.com.
 
-Link to the privacy policy of third-party service providers used by the app
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [Unity](https://unity3d.com/legal/privacy-policy)
+If you reside in the European Economic Area (“EEA”) or United Kingdom, Discord Netherlands BV is the “data controller” of your personal information collected through the services (as defined in Discord's Terms of Service). For everyone else, Discord Inc. is the data controller.
 
-**Log Data**
+It’s important that you read this entire policy, but here’s a summary to get you started:
 
-We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+* **We give you control.** We give you the ability to control your privacy on Discord.
+* **We don't store any personal information.** We don't store emails, location, IP adress, passwords or any personal identifiers. Only what Discord gives us.
+* **We don’t sell your data.** Our business is based on subscriptions and paid products.
+  
+The information we collect[](#the-information-we-collect)
+===========================================================
 
-**Cookies**
+We collect certain information when you use YGO Omega. This includes information you provide to us and information we collect automatically.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+Information you provide to us[](#information-you-provide-to-us)
+-----------------------------------------------------------------
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+*   **Discord username.** When you login to YGO Omega, it requests Discord for username.
+*   **Discord avatar.** When you login to YGO Omega, it requests Discord for avatar.
 
-**Service Providers**
+Information we collect automatically[](#information-we-collect-automatically)
+-------------------------------------------------------------------------------
 
-We may employ third-party companies and individuals due to the following reasons:
+We also collect information automatically from you when you use YGO Omega. This includes:
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+*   Information about the number of wins, losses, and draws for each ranked duel.
+*   Information on the types of decks you use. (We do not reveal decklists).
+*   Information on the cards used.
+*   Information on which ranked queues you use. 
 
-We want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+How we use your information[](#how-we-use-your-information)
+=============================================================
 
-**Security**
+We use your information for the following purposes:To fulfill our contract with you
 
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+*   To provide you with the services. For example, when you chat with your opponent, a Discord lobby is created which creates a connection between you and the opponent. Other players may join this lobby as spectators and also communicate with you. We do not store these messages that are displayed once the duel is over. Communication may be in the form of text messages or voice chat.
+*   To contact you. We use your information to contact you in connection with your username. We may detect bugs on the server which involved your activity and hence, we would contact you to ask questions so that we can collect more information on how to reproduce that bug.
+*   To provide customer service. We use your information to respond to your questions about our products and services, and to investigate bugs or other issues.
+*   To track your game progress. The result of your duels (wins, losses, or draw), the decks you use, and the cards you use, helps create your own personal profile that you can access on the website.
+ 
 
-**Links to Other Sites**
+**_In Short:_** _We use your information to track your game progress, communicate with you, and provide game statistics._
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+How we share your information[](#how-we-share-your-information)
+=================================================================
 
-**Children’s Privacy**
+*   Information about your game progress for ranked games is saved and shown in your personal profile accessible on the website.
+  
 
-These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do the necessary actions.
+Data retention[](#data-retention)
+===================================
 
-**Changes to This Privacy Policy**
+We retain data for as long as it is needed for the purposes for which we collected it. If your account is inactive for more than two years, we may delete it, and we may delete any information associated with your account. 
+ 
+How to control your privacy[](#how-to-control-your-privacy)
+=============================================================
 
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+We believe that users should be able to tailor their experience to their preferences, including privacy. And while local laws may require different things, we believe that our users should have the same basic ability to shape their experience no matter where they are in the world. Here’s how you can control how we process your information and how to request access to your information:
 
-This policy is effective as of 2022-05-10
+* You can choose to enable "Incognito Mode" from Settings. This will hide your Discord username, Discord avatar, card sleeves, and playmats from all other players using the game.
+* You can choose to mute your opponent or spectators. The chat is disabled by default. If you enable chat, a disclaimer pops up which you agree to take responsibility for the content of the chat.
+* You can choose to enable "Safe Mode" from Settings. This will hide other players' Discord username, Discord avatar, card sleeves, and playmats.
 
-**Contact Us**
+Be aware of the chats you choose to participate in. You can always choose what conversations to participate in and what information you give. You can choose what messages to send or post, who to engage with (e.g., one or more particular users or a potentially unlimited group of users), what information to include in your profile, whether to connect any third party services to your Discord account, and more. For example, if you share content in public spaces, it may be accessed by anyone.
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at duelistsunite0@gmail.com.
+We encourage players to practice self-moderation. Most games do not offer the ability to communicate with other players. We have allowed this feature to enhance the experience and community. There is no censorship of the chat. There is complete freedom of speech. You can mute any player(s) or block them from Discord and this will prevent that player(s) from communicating with you both in the game and on Discord.
+
+We offer a number of settings that allow you to tailor your experience within YGO Omega. 
+
+International data transfers[](#international-data-transfers)
+===============================================================
+
+We are based in Canada, and we process and store information on servers located in the Canada. We may also store information on servers and equipment in other countries depending on a variety of factors, including the locations of our users and service providers. These data transfers allow us to provide our services to you. By accessing or using our services or otherwise providing information to us, you understand that your information will be processed, transferred, and stored in Canada and other countries, where different data protection standards may apply and/or you may not have the same rights as you do under local law. When transferring data outside the EEA, we use [standard contract clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087), and we rely on the European Commission's [adequacy decisions](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en) about certain countries, as applicable, or other legally compliant mechanisms or conditions for such data transfer. We also adhere to the EU-U.S. and Swiss-U.S. Privacy Shield Program and comply with its framework and principles. Although the EU-U.S. Privacy Shield Program is no longer a valid basis for certain international data transfers, we continue to comply with the Privacy Shield framework and principles with respect to personal data received from the EU in addition to all other applicable laws.If you have questions or complaints regarding our compliance with the Privacy Shield principles, please reach out to us at [\[email protected\]om](/cdn-cgi/l/email-protection#d1a1a3b8a7b0b2a891b5b8a2b2bea3b5ffb2bebc). If we do not resolve your complaint, you may submit your complaint free of charge to [JAMS](https://www.jamsadr.com/eu-us-privacy-shield). Under certain conditions specified by the Privacy Shield principles, you may also be able to invoke binding arbitration to resolve your complaint. We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. In certain circumstances, we may be liable for the transfer of personal data from the EU, Switzerland, or the UK to a third party outside those countries.For more information about the Privacy Shield principles and to view our certification, please visit the U.S. Department of Commerce’s [Privacy Shield site](https://www.privacyshield.gov/).
+
+Information for EEA, United Kingdom, and Brazil Users[](#information-for-eea-united-kingdom-and-brazil-users)
+===============================================================================================================
+
+Certain local laws, such as the European Union’s General Data Protection Regulation (GDPR) and Brazil’s Lei Geral de Proteção de Dados (LGPD), require services to provide information about the information they collect, how they use it, and the lawful basis for processing it. We’ve described most of that already in the earlier portions of this Policy.Exercising your rights: You can exercise your GDPR rights as described in the [“How to control your privacy”](#how-to-control-your-privacy) section above. If you encounter a problem, reach out to us at [\[email protected\]](/cdn-cgi/l/email-protection)Discord’s UK Representative. We’ve appointed VeraSafe as Discord’s representative in the United Kingdom for data protection matters, pursuant to Article 27 of the UK General Data Protection Regulation. See the section “Contact Us” below.You can contact VeraSafe only on matters related to the processing of personal data.
+
+Information for California Users[](#information-for-california-users)
+=======================================================================
+
+Consumers residing in California are afforded certain additional rights with respect to their personal information under the California Consumer Privacy Act or (“CCPA”) and the “Shine the Light” Law. If you are a California resident, this section applies to you.Our collection and use of personal information: We collect the following categories of personal information: identifiers (such as your username, the email address you used to sign up, and your phone number if you’ve chosen to provide it); commercial information (a record of what you’ve bought from Discord, if anything); financial data (payment information and your history of purchases from Discord); internet or other network information (how you interact with the application); location information (because your IP address may indicate your general location); inference data about you (for example, what content you may be interested in); and other information that identifies or can be reasonably associated with you. For more information about what we collect and the sources of such collection, please see the [“The information we collect”](#the-information-we-collect) section above. We collect personal information for the business and commercial purposes described in [“How we use your information”](#how-we-use-your-information) above.Disclosure of personal information: We may share your personal information with third parties as described in the [“How we share your information”](#how-we-share-your-information) section above. We disclose the categories of personal information mentioned above for business or commercial purposes.No sale of personal information: The CCPA sets forth certain obligations for businesses that sell personal information. We do not sell the personal information of our users. We do share information as outlined in the [“How we share your information”](#how-we-share-your-information) section above and you can make choices with respect to your information as outlined in this policy.Exercising your consumer rights: If you are a California resident, you have the right to request (1) more information about the categories and specific pieces of personal information we have collected and disclosed for a business purpose in the last 12 months, (2) the deletion of your personal information, and (3) to opt out of sales of your personal information, if applicable. Details on how to make these requests are in the [“How to control your privacy”](#how-to-control-your-privacy) section above. We will not discriminate against you if you exercise your rights under the CCPA.Requests received: please see [this page](https://support.discord.com/hc/articles/4410339387671) for information on the number of data requests we have received.
+
+Changes to this Privacy Policy[](#changes-to-this-privacy-policy)
+===================================================================
+
+We will update this Privacy Policy from time to time. We always indicate the date the last changes were published, and if changes are significant, we’ll provide a more prominent notice as required by law, such as by emailing you or highlighting the changes within the services.
+
+
+Contact us[](#contact-us)
+===========================
+If you have questions or comments about this notice, you may email us at duelistsunite0@gmail.com or by post to:
+
+  
+
+Duelists Unite
+
+210 VICTORIA ST.
+
+Unit 807
+
+TORONTO, Ontario M5B 2R3
+
+Canada
