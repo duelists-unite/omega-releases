@@ -36,7 +36,7 @@ It’s important that you read this entire policy, but here’s a summary to get
 
 * **We give you control.** We give you the ability to control your privacy on Discord.
 * **We don't store any personal information.** We don't store emails, location, IP address, passwords or any personal identifiers. Only what Discord gives us.
-* **We don’t sell your data.** Our business is based on subscriptions and paid products.
+* **We don’t sell your data.** Our business is based on donations only.
   
 The information we collect[](#the-information-we-collect)
 ===========================================================
