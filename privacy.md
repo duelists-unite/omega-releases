@@ -89,7 +89,7 @@ How to control your privacy[](#how-to-control-your-privacy)
 We believe that users should be able to tailor their experience to their preferences, including privacy. And while local laws may require different things, we believe that our users should have the same basic ability to shape their experience no matter where they are in the world. Here’s how you can control how we process your information and how to request access to your information:
 
 * You can choose to enable "Incognito Mode" from Settings. This will hide your Discord username, Discord avatar, card sleeves, and playmats from all other players using the game.
-* You can choose to mute your opponent or spectators. The chat is disabled by default. If you enable chat, a disclaimer pops up which you agree to take responsibility for the content of the chat.
+* You can choose to mute your opponent or spectators. The chat is disabled by default. If you enable chat, a disclaimer is shown below which you agree to take responsibility for the content of the chat.
 * You can choose to enable "Safe Mode" from Settings. This will hide other players' Discord username, Discord avatar, card sleeves, and playmats.
 
 Be aware of the chats you choose to participate in. You can always choose what conversations to participate in and what information you give. You can choose what messages to send or post, who to engage with (e.g., one or more particular users or a potentially unlimited group of users), what information to include in your profile, whether to connect any third party services to your Discord account, and more. For example, if you share content in public spaces, it may be accessed by anyone.
