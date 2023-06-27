@@ -1,5 +1,5 @@
 {
   "Title": "",
-  "Content": "<size=100%><color=#ff8000>Tournaments have been scheduled for TCG, OCG, Speed Duel, Rush Duel, Master Duel, Duel Links, Goat and Edison! These are daily tournaments for every time zone. Be sure to look on the discord for a schedule.</color>",
+  "Content": "<size=100%><color=#ff8000>The server is down currently due to OS updates on the server machine. It will be back up shortly.</color>",
   "Revision": ""
 }
