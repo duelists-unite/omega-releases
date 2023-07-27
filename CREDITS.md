@@ -14,8 +14,6 @@ MelvinZhang - Contribution to ygopro core
 Szefo09, Kayden, AniHelp, Samuel - AI scripts
 <u><color=#00F3FF>
 <link="https://www.deviantart.com/ygoofficial">DeviantArt</link></color></u>
-Ryder - Installer
-Catto - Discord card bot, Packs table
 Dot - Database, banlist generator
 
 <b><u>Website</u></b>
